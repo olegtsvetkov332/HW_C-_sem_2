@@ -1,0 +1,15 @@
+D:\Олет\HW_C#_sem_2\Z_2\bin\Debug\net6.0\Z_2.exe
+D:\Олет\HW_C#_sem_2\Z_2\bin\Debug\net6.0\Z_2.deps.json
+D:\Олет\HW_C#_sem_2\Z_2\bin\Debug\net6.0\Z_2.runtimeconfig.json
+D:\Олет\HW_C#_sem_2\Z_2\bin\Debug\net6.0\Z_2.dll
+D:\Олет\HW_C#_sem_2\Z_2\bin\Debug\net6.0\Z_2.pdb
+D:\Олет\HW_C#_sem_2\Z_2\obj\Debug\net6.0\Z_2.csproj.AssemblyReference.cache
+D:\Олет\HW_C#_sem_2\Z_2\obj\Debug\net6.0\Z_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Олет\HW_C#_sem_2\Z_2\obj\Debug\net6.0\Z_2.AssemblyInfoInputs.cache
+D:\Олет\HW_C#_sem_2\Z_2\obj\Debug\net6.0\Z_2.AssemblyInfo.cs
+D:\Олет\HW_C#_sem_2\Z_2\obj\Debug\net6.0\Z_2.csproj.CoreCompileInputs.cache
+D:\Олет\HW_C#_sem_2\Z_2\obj\Debug\net6.0\Z_2.dll
+D:\Олет\HW_C#_sem_2\Z_2\obj\Debug\net6.0\refint\Z_2.dll
+D:\Олет\HW_C#_sem_2\Z_2\obj\Debug\net6.0\Z_2.pdb
+D:\Олет\HW_C#_sem_2\Z_2\obj\Debug\net6.0\Z_2.genruntimeconfig.cache
+D:\Олет\HW_C#_sem_2\Z_2\obj\Debug\net6.0\ref\Z_2.dll
